@@ -1,0 +1,4 @@
+twitter-tracker-bot/
+├── bot.py          # Основной код бота
+├── requirements.txt # Зависимости
+└── Procfile        # Файл для запуска (опционально)
